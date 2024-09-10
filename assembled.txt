@@ -1,0 +1,3 @@
+v3.0 hex words addressed
+00: 0000 b401 b504 b607 b70a 2010 2170 2685 27c6 cc01 cd04 ce07 cf0a 6280 63d0 ce02 
+10: cf08 
